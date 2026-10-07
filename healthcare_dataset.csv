@@ -1,0 +1,21 @@
+PATIENT_ID,NAME,AGE,GENDER,DISEASE,BLOOD_PRESSURE,ADMISSION_DATE
+P001,John Smith,45,M,Diabetes,120/80,2024-01-10
+P002,Sarah Jones,32,F,Flu,110/70,2024-01-12
+P003,Raj Kumar,67,M,Hypertension,140/90,2024-01-13
+P004,Emily Davis,29,F,Asthma,115/75,2024-01-14
+P005,Mohammed Ali,,M,Diabetes,130/85,2024-01-15
+P006,Priya Patel,55,F,Hypertension,145/95,2024-01-16
+P007,David Wilson,41,M,Flu,118/78,2024-01-17
+P008,Lisa Brown,38,F,Diabetes,125/82,2024-01-18
+P002,Sarah Jones,32,F,Flu,110/70,2024-01-12
+P009,Ahmed Khan,50,M,Asthma,122/80,2024-01-19
+P010,Anjali Rao,27,F,Flu,108/68,2024-01-20
+P011,Vikram Singh,60,M,Hypertension,150/100,2024-01-21
+P012,Maria Garcia,35,F,Diabetes,128/84,2024-01-22
+P013,James Lee,42,M,Flu,112/72,2024-01-23
+P005,Mohammed Ali,,M,Diabetes,130/85,2024-01-15
+P014,Nisha Gupta,48,F,Asthma,118/76,2024-01-24
+P015,Robert Taylor,33,M,Diabetes,126/83,2024-01-25
+P016,Sunita Devi,,F,Hypertension,142/92,2024-01-26
+P017,Kevin White,39,M,Flu,114/74,2024-01-27
+P018,Fatima Sheikh,52,F,Diabetes,132/88,2024-01-28
